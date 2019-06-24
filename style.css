@@ -1,0 +1,66 @@
+/*
+Sitio Web: Meditek - Sitio Cooporativo;
+Autor: Pixel Design CR 2019;
+Desarrollador: Leonardo Navarro Fonseca;
+Fecha: 22/02/2019;
+
+******************************
+******************************
+********   COLORES  **********
+******************************
+******************************
+
+*/
+/*-------ETIQUETAS HTML-------*/
+*{
+	transition: .5s;
+}
+@font-face {
+	font-family: 'OpenSans-Light';
+	src: url('font/OpenSans-Light.ttf')  format('truetype');
+	font-weight: 100;
+}
+a{
+	text-decoration: none !important;
+}
+body{
+	font-family: 'Quicksand' !important;
+	overflow-x: hidden;
+}
+footer{
+	background: lightgrey;
+	bottom: 0;
+	position: absolute;
+	width: 100%
+}
+header{
+	background: #ffffff;
+}
+html {
+  scroll-behavior: smooth;
+}
+/*--------------*/
+
+
+/*-------ID-------*/
+
+
+
+/*--------------*/
+
+
+/*-------CLASS-------*/
+
+
+}
+/*--------------*/
+
+
+/*-------RESPONSIVE-------*/
+@media (min-width: 375px){
+
+}
+@media (min-width: 425px){
+
+}
+/*--------------*/
