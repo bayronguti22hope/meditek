@@ -1,5 +1,5 @@
 /*
-Sitio Web: Meditek - Sitio Cooporativo;
+Sitio Web: Tema desde Cero;
 Autor: Pixel Design CR 2019;
 Desarrollador: Leonardo Navarro Fonseca;
 Fecha: 22/02/2019;
@@ -38,6 +38,7 @@ header{
 }
 html {
   scroll-behavior: smooth;
+	overflow-x: hidden;
 }
 /*--------------*/
 
